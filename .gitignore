@@ -9,3 +9,7 @@ gen
 
 # Resources
 !/day_01/resources/
+
+# Test file
+test.py
+
